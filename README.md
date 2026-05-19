@@ -30,9 +30,7 @@
 - LangChain / LangGraph
 - LLM Tool Calling
 - AI Workflow Orchestration
-- FAISS / BM25 / RRF
-- Multimodal Inference
-- WhisperX
+- Guardrails and fallbacks
 - Embeddings & Retrieval Systems
 - Structured Output Validation
 - OpenAI APIs
@@ -44,7 +42,7 @@
 - REST APIs
 - Docker
 - RabbitMQ
-- AWS (S3, ECS)
+- AWS (S3, ECS, IAM, SQS)
 - Distributed Systems
 - Real-Time Backend Services
 - Logging & Observability
