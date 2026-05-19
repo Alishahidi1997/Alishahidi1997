@@ -93,8 +93,3 @@ Developed a hybrid retrieval system combining:
 - cross-encoder reranking
 - async retrieval pipelines
 
----
-
-## 🚀 Fun Fact
-
-> "I enjoy building AI systems that behave like reliable software — not just impressive demos."
