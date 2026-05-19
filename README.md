@@ -1,15 +1,15 @@
 # Hi 👋, I'm Ali Shahidi
 
 **Backend / Applied AI Engineer** 
-🚀 Production AI Systems | ⚙️ Distributed Systems | 🧠 RAG & AI Orchestration
+🚀 AI/Backend Systems | ⚙️ Distributed Systems | 🧠 RAG & AI Orchestration
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in building production-ready AI infrastructure, asynchronous backend systems, and scalable orchestration pipelines. I bridge the gap between AI models and robust, deterministic backend software.
+I am a Software Engineer specializing in building AI infrastructure, asynchronous backend systems, and scalable orchestration pipelines. I bridge the gap between AI models and robust, deterministic backend software.
 
-*   🎓 **Education:** MEng in Software Engineering | University of Calgary
+*   🎓 **Education:** MSc. in Software Engineering | University of Calgary
 *   🎯 **Current Focus:** Hardening LLM tool-calling pipelines, optimizing retrieval latency, and building resilient agentic workflows.
 *   ⚡ **Core Strength:** Designing safe AI integrations with strict validation, observability, and fallback guardrails.
 
