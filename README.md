@@ -1,17 +1,17 @@
 # Hi 👋, I'm Ali Shahidi
 
-**Backend / Applied AI Engineer** 
+**Backend / Applied AI Engineer**  
 🚀 AI/Backend Systems | ⚙️ Distributed Systems | 🧠 RAG & AI Orchestration
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in building AI infrastructure, asynchronous backend systems, and scalable orchestration pipelines. I bridge the gap between AI models and robust, deterministic backend software.
+I am a Software Engineer specializing in building AI infrastructure, asynchronous backend systems, and orchestration pipelines. I bridge the gap between AI models and robust, deterministic backend software.
 
 *   🎓 **Education:** MSc. in Software Engineering | University of Calgary
-*   🎯 **Current Focus:** Hardening LLM tool-calling pipelines, optimizing retrieval latency, and building resilient agentic workflows.
-*   ⚡ **Core Strength:** Designing safe AI integrations with strict validation, observability, and fallback guardrails.
+*   🎯 **Current Focus:** Improving reliability of LLM tool-calling pipelines, optimizing retrieval latency, and building resilient agentic workflows.
+*   ⚡ **Core Strength:** Designing safe AI integrations with strict validation, structured logging, and fallback guardrails.
 
 ---
 
@@ -22,7 +22,7 @@ I am a Software Engineer specializing in building AI infrastructure, asynchronou
 | **AI / LLM Orchestration** | LangChain, LangGraph, LLM Tool Calling, Structured Output Validation, Guardrails & Fallbacks |
 | **Retrieval & Vector Search** | Hybrid Search (FAISS + BM25), Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking, Embeddings |
 | **Backend & Distributed Systems** | FastAPI, Async Python, Docker, RabbitMQ, Webhooks, AWS (S3, ECS, SQS) |
-| **Databases & Storage** | PostgreSQL, MySQL, Redis, Vector Databases |
+| **Databases & Storage** | PostgreSQL, MySQL, Redis, Vector Search (FAISS) |
 | **Languages** | Python, C#, C++, SQL, JavaScript |
 
 ---
@@ -32,20 +32,24 @@ I am a Software Engineer specializing in building AI infrastructure, asynchronou
 ### 🧠 AI Workflow Orchestration Middleware
 *An AI-powered workflow automation platform.*
 *   **Engineered** a secure tool-calling execution pipeline with strict runtime validation and audit logging.
-*   **Implemented** granular Role-Based Access Control (RBAC) enforcement directly within LLM orchestration layers.
-*   **Integrated** multi-tenant Slack automations handled via asynchronous background workers.
+*   **Implemented** Role-Based Access Control (RBAC) enforcement within LLM orchestration layers.
+*   **Built** Slack automation workflows using asynchronous background workers.
+
+---
 
 ### 👁️ Multimodal Behaviour Analysis System
 *Real-time multimodal inference system for behavioral analytics.*
 *   **Architected** a low-latency pipeline syncing concurrent streams (vision, audio, and speech alignment).
-*   **Leveraged** GPT-based reasoning constrained to strict, structured JSON schemas for downstream consumption.
-*   **Optimized** async processing to handle real-time data ingestion without blocking core inference loops.
+*   **Leveraged** GPT-based reasoning constrained to structured JSON schemas for downstream processing.
+*   **Optimized** async processing for real-time data ingestion without blocking inference loops.
+
+---
 
 ### 🔍 Production RAG Platform
 *Hybrid retrieval engine built for accuracy and speed.*
-*   **Designed** a hybrid retrieval pipeline combining dense vector search (**FAISS**) with sparse keyword search (**BM25**).
-*   **Implemented** Reciprocal Rank Fusion (RRF) and a **Cross-Encoder reranking** step to maximize precision.
-*   **Built** the entire retrieval layer utilizing Python `asyncio` to maximize throughput and minimize user-facing latency.
+*   **Designed** a hybrid retrieval pipeline combining dense vector search (FAISS) with sparse keyword search (BM25).
+*   **Implemented** Reciprocal Rank Fusion (RRF) and Cross-Encoder reranking to improve precision.
+*   **Built** the retrieval layer using Python `asyncio` for higher throughput and lower latency.
 
 ---
 
