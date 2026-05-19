@@ -11,7 +11,7 @@ I am a Software Engineer specializing in building production-ready AI infrastruc
 
 *   🎓 **Education:** MEng in Software Engineering | University of Calgary
 *   🎯 **Current Focus:** Hardening LLM tool-calling pipelines, optimizing retrieval latency, and building resilient agentic workflows.
-*   ⚡ **Core Strength:** Designing production-safe AI integrations with strict validation, observability, and fallback guardrails.
+*   ⚡ **Core Strength:** Designing safe AI integrations with strict validation, observability, and fallback guardrails.
 
 ---
 
@@ -27,10 +27,10 @@ I am a Software Engineer specializing in building production-ready AI infrastruc
 
 ---
 
-## 🚀 Featured Production Work
+## 🚀 Featured Work
 
 ### 🧠 AI Workflow Orchestration Middleware
-*An AI-powered workflow automation platform built for enterprise scale.*
+*An AI-powered workflow automation platform.*
 *   **Engineered** a secure tool-calling execution pipeline with strict runtime validation and audit logging.
 *   **Implemented** granular Role-Based Access Control (RBAC) enforcement directly within LLM orchestration layers.
 *   **Integrated** multi-tenant Slack automations handled via asynchronous background workers.
@@ -42,7 +42,7 @@ I am a Software Engineer specializing in building production-ready AI infrastruc
 *   **Optimized** async processing to handle real-time data ingestion without blocking core inference loops.
 
 ### 🔍 Production RAG Platform
-*Enterprise-grade hybrid retrieval engine built for accuracy and speed.*
+*Hybrid retrieval engine built for accuracy and speed.*
 *   **Designed** a hybrid retrieval pipeline combining dense vector search (**FAISS**) with sparse keyword search (**BM25**).
 *   **Implemented** Reciprocal Rank Fusion (RRF) and a **Cross-Encoder reranking** step to maximize precision.
 *   **Built** the entire retrieval layer utilizing Python `asyncio` to maximize throughput and minimize user-facing latency.
