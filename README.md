@@ -19,7 +19,7 @@ I am a Software Engineer specializing in building AI infrastructure, asynchronou
 
 | Category | Technologies & Concepts |
 | :--- | :--- |
-| **AI / LLM Orchestration** | LangChain, LangGraph, LLM Tool Calling, Structured Output Validation, Guardrails & Fallbacks |
+| **AI / LLM Orchestration** | LangChain, LangGraph, LangSmith, LLM Tool Calling, Structured Output Validation, Guardrails & Fallbacks |
 | **Retrieval & Vector Search** | Hybrid Search (FAISS + BM25), Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking, Embeddings |
 | **Backend & Distributed Systems** | FastAPI, Async Python, Docker, RabbitMQ, Webhooks, AWS (S3, ECS, SQS) |
 | **Databases & Storage** | PostgreSQL, MySQL, Redis, Vector Search (FAISS) |
