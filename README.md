@@ -1,60 +1,83 @@
 # Hi 👋, I'm Ali Shahidi
 
-**Backend / Applied AI Engineer**  
-🚀 AI/Backend Systems | ⚙️ Distributed Systems | 🧠 RAG & AI Orchestration
+**Backend / Applied AI Engineer**
+🚀 Backend Systems | ⚙️ Distributed Services | 🧠 Retrieval & AI Infrastructure
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in building AI infrastructure, asynchronous backend systems, and orchestration pipelines. I bridge the gap between AI models and robust, deterministic backend software.
+I’m a software engineer based in Calgary specializing in backend engineering, applied AI systems, and real-time distributed applications.
 
-*   🎓 **Education:** MSc. in Software Engineering | University of Calgary
-*   🎯 **Current Focus:** Improving reliability of LLM tool-calling pipelines, optimizing retrieval latency, and building resilient agentic workflows.
-*   ⚡ **Core Strength:** Designing safe AI integrations with strict validation, structured logging, and fallback guardrails.
+My work focuses on building reliable backend services for retrieval-augmented generation (RAG), multimodal inference pipelines, and low-latency interactive systems. I’m particularly interested in designing scalable APIs, asynchronous processing workflows, and validation-first AI integrations that bridge modern ML systems with robust backend architecture.
+
+* 🎓 **M.Sc. Software Engineering** — University of Calgary
+* 🔍 **Current Focus:** Backend reliability, retrieval optimization, and structured AI workflow orchestration
+* ⚡ **Core Strengths:** Async backend systems, validation-driven AI integration, observability, and performance optimization
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-| Category | Technologies & Concepts |
-| :--- | :--- |
-| **AI / LLM Orchestration** | LangChain, LangGraph, LangSmith, LLM Tool Calling, Structured Output Validation, Guardrails & Fallbacks |
-| **Retrieval & Vector Search** | Hybrid Search (FAISS + BM25), Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking, Embeddings |
-| **Backend & Distributed Systems** | FastAPI, Async Python, Docker, RabbitMQ, Webhooks, AWS (S3, ECS, SQS) |
-| **Databases & Storage** | PostgreSQL, MySQL, Redis, Vector Search (FAISS) |
-| **Languages** | Python, C#, C++, SQL, JavaScript |
+### Backend & Distributed Systems
+
+Python, FastAPI, ASP.NET Core, REST APIs, Async Processing, Docker, RabbitMQ
+
+### Applied AI & Retrieval
+
+RAG, FAISS, BM25, Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking, LLM Tool Calling, Structured Validation
+
+### Cloud & Infrastructure
+
+AWS (ECS, S3, IAM, SQS), Containerized Deployment, Concurrent Inference Workflows
+
+### Databases
+
+PostgreSQL, MySQL, Redis, SQLite
+
+### Languages
+
+Python, C#, C++, SQL, JavaScript
 
 ---
 
 ## 🚀 Featured Work
 
 ### 🧠 AI Workflow Orchestration Middleware
-*An AI-powered workflow automation platform.*
-*   **Engineered** a secure tool-calling execution pipeline with strict runtime validation and audit logging.
-*   **Implemented** Role-Based Access Control (RBAC) enforcement within LLM orchestration layers.
-*   **Built** Slack automation workflows using asynchronous background workers.
+
+Backend middleware for secure AI-powered workflow automation.
+
+* Designed LLM tool-calling pipelines with strict schema validation and policy enforcement
+* Implemented RBAC controls and structured audit logging
+* Built asynchronous webhook-driven workflow execution for reliable automation
+
+---
+
+### 🔍 Hybrid RAG Retrieval Platform
+
+Retrieval system for domain-specific document search.
+
+* Built hybrid retrieval pipelines using FAISS, BM25, and Reciprocal Rank Fusion
+* Improved retrieval quality through reranking and iterative evaluation using Recall@K and MRR
+* Reduced token usage through selective context retrieval optimization
+* Delivered through asynchronous FastAPI services deployed in AWS-hosted environments
 
 ---
 
 ### 👁️ Multimodal Behaviour Analysis System
-*Real-time multimodal inference system for behavioral analytics.*
-*   **Architected** a low-latency pipeline syncing concurrent streams (vision, audio, and speech alignment).
-*   **Leveraged** GPT-based reasoning constrained to structured JSON schemas for downstream processing.
-*   **Optimized** async processing for real-time data ingestion without blocking inference loops.
+
+Real-time multimodal inference for behavioral analytics.
+
+* Built pipelines integrating vision, audio, and speech signals
+* Improved throughput through asynchronous processing and optimized frame sampling
+* Added structured validation and observability for reliable downstream AI processing
 
 ---
 
-### 🔍 Production RAG Platform
-*Hybrid retrieval engine built for accuracy and speed.*
-*   **Designed** a hybrid retrieval pipeline combining dense vector search (FAISS) with sparse keyword search (BM25).
-*   **Implemented** Reciprocal Rank Fusion (RRF) and Cross-Encoder reranking to improve precision.
-*   **Built** the retrieval layer using Python `asyncio` for higher throughput and lower latency.
+## 🌐 Connect
 
----
+* **LinkedIn:** linkedin.com/in/ali-shahidi97
+* **Portfolio:** alishahidi1997.github.io
+* **GitHub:** github.com/Alishahidi1997
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-shahidi97)
-[![Website](https://img.shields.io/badge/Personal__Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alishahidi1997.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alishahidi1997)
+📍 Calgary, AB
