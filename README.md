@@ -80,4 +80,4 @@ Real-time multimodal inference for behavioral analytics.
 * **Portfolio:** alishahidi1997.github.io
 * **GitHub:** github.com/Alishahidi1997
 
-📍 Calgary, AB
+📍 Canada
